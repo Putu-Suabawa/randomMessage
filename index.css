@@ -1,0 +1,18 @@
+
+#header{
+    font-size: 40px;
+    color:blue;
+    background-color: rgb(168, 221, 81);
+    border: 2px solid blue;
+}
+
+#demo{
+    color:goldenrod;
+    font-size: 20px;
+}
+
+#Button{
+    color:darkgreen;
+    font-size: 1.5rem;
+    padding: 5px;
+}

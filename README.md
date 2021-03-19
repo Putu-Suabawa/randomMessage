@@ -3,7 +3,7 @@
 ### What it is?
 
 This program will generate random message whenever the user runs the program. The message can be either Zodiac fortune
-telling for the day, inspirational quotes, or jokes.
+telling for the day, quotesby famouse person, or jokes.
 
 ### How to run the program?
 
