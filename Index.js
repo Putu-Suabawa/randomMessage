@@ -23,12 +23,12 @@ const getRandomMessage = (number) => {
     'In the book of life, the answers aren\'t in the back. - Charlie Brown', 
     'Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - Abraham Lincoln'];
     
-    let jokes = ['Why don\’t scientists trust atoms? Because they make up everything.',
+    let jokes = ['Why don&#39t scientists trust atoms? Because they make up everything.',
     'What do you call a parade of rabbits hopping backwards? A receding hare-line.',
     'What did the Buddhist say to the hot dog vendor? Make me one with everything',
     'What did the buffalo say when his son left for college? Bison.', 
     'How does a rabbi make his coffee? Hebrews it',
-    'Why aren’t koalas actual bears? They don’t meet the koalafications.', 
+    'Why aren&#39t koalas actual bears? They don&#39t meet the koalafications.', 
     'I tried to sue the airport for misplacing my luggage. I lost my case.',
     'Can February march? No, but April may.',
     'How do trees get online? They just log on.',
@@ -39,7 +39,7 @@ const getRandomMessage = (number) => {
     } else if(d > 10 && d <= 20) {
         return quotes[randomNum]; 
     } else {
-        return jokes[randomeNum];
+        return jokes[randomNum];
     }
 };
 
