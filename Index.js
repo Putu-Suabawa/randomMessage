@@ -45,7 +45,7 @@ const getRandomMessage = (number) => {
 
 const buttonClicked = () => {
     const rolledDice = Math.floor(Math.random() * 10);
-    document.getElementById("demo").innerHTML = getRandomMessage(rolledDice);;
+    document.getElementById("demo").innerHTML = getRandomMessage(rolledDice);
 };
 
 const Button = document.getElementById('Button');
